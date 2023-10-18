@@ -3,12 +3,12 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Attractiepark</title>
+    <title>Movie Park</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header>
-    <h1>Welkom in ons Attractiepark</h1>
+    <h1>Welkom in ons Movie Park</h1>
 </header>
 <nav>
     <ul>
